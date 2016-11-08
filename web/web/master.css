@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(22, 122, 202);
+}
+.ui.segment.main
+{
+  position: fixed;
+  margin: 0;
+  top: 50%;
+  width:650px;
+  left: 50%;
+
+}
+ /*设置checkbox组的线性排列*/
+.grouped.inline.fields .field{display: inline !important;margin-left: 12px !important;}

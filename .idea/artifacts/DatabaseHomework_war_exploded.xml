@@ -1,0 +1,39 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DatabaseHomework:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/DatabaseHomework_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DatabaseHomework/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DatabaseHomework" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/spring.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/jta-1.1.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/aspectjrt.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/hibernate3.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/ognl-3.0.5.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/antlr-2.7.6.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/dom4j-1.6.1.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/log4j-1.2.15.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/aspectjweaver.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/slf4j-api-1.5.8.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/commons-io-2.0.1.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/xwork-core-2.3.7.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/cglib-nodep-2.1_3.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/commons-lang3-3.1.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/freemarker-2.3.19.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/common-annotations.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/struts2-core-2.3.7.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/commons-logging-1.1.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/javassist-3.11.0.GA.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/slf4j-log4j12-1.5.8.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/commons-collections-3.1.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/commons-fileupload-1.2.2.jar" />
+          <element id="file-copy" path="E:/java_jar/framework/ssh/lib/mysql-connector-java-5.1.12-bin.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
