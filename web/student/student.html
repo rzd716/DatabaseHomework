@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>学生个人主页</title>
+    <link rel="stylesheet" href="css/semantic.css" media="screen" title="no title">
+    <link rel="stylesheet" href="css/master.css" media="screen" title="no title">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/student.js"></script>
+</head>
+
+<body>
+    <header class="ui basic blue inverted segment">
+        <div class="fixed-container">
+            <img src="img/scut_logo2.png" alt="" height="40px" />
+            <!-- TODO:在a中添加退出的href -->
+            <a class="item" href="#" style="font-size:20px;color:white;float:right">
+                <img class="ui avatar image" src="img/steve.jpg"> 退出
+            </a>
+        </div>
+    </header>
+    <div class="fixed-container">
+        <div class="ui vertical  pointing menu" style="float:left">
+            <a class="item" id="student_test.html">
+                <i class="file test icon"></i> 我的试卷
+            </a>
+            <a class="item" id="student_score.html">
+                <i class="folder icon"></i> 考试成绩
+            </a>
+            <a class="item" id="student_info.html">
+                <i class="user icon"></i> 个人信息
+            </a>
+        </div>
+        <!--- 最后要调整这边的高度和背景色--->
+        <iframe src="" name="frame_content" id="frame_content" frameborder="0" scrolling="no" width="950px"  height="900px" style="float:right;"></iframe>
+    </div>
+</body>
+
+</html>
